@@ -16,8 +16,8 @@ https://free3d.com/3d-model/manuel-animated-001-dancing-256270.html
 https://user-images.githubusercontent.com/38187481/220135192-4a0fdd04-0cc9-4533-ba71-ec557e003810.mp4
 
 ### TODO
-Add tracker to smooth the pose
-Apply IK
+Add tracker to smooth the pose.
+Apply IK.
 
 # Acknowledgement
 https://github.com/laxmaniron/3D-Animation
