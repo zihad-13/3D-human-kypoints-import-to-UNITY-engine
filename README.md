@@ -21,8 +21,8 @@ https://user-images.githubusercontent.com/38187481/220241411-1c49d4b9-717c-4ab5-
 
 
 #### TODO
-Add tracker to smooth the pose. \
-Apply IK.
+- [ ] Add tracker to smooth the pose. \
+- [ ] Apply IK.
 
 # Acknowledgement
 https://github.com/laxmaniron/3D-Animation \
