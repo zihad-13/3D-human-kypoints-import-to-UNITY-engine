@@ -2,7 +2,7 @@
 
 ## Steps
 1. Copy the unity project to the local directory.
-2. Open with editor(try to use latest)
+2. Open with unity editor(try to use latest). I used ```2021.3.17f1 LTS ```
 3. Press Run
 
 ## 3D keypoints
