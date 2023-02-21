@@ -13,9 +13,11 @@ Here the following character is used.
 https://free3d.com/3d-model/manuel-animated-001-dancing-256270.html
 
 # Output
-https://user-images.githubusercontent.com/38187481/220135192-4a0fdd04-0cc9-4533-ba71-ec557e003810.mp4
 
-### TODO
+https://user-images.githubusercontent.com/38187481/220235165-59bbbab5-1c16-439a-b8b5-cde3e2ce607c.mp4
+
+
+#### TODO
 Add tracker to smooth the pose. \
 Apply IK.
 
