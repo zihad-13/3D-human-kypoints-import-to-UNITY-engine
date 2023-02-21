@@ -14,7 +14,10 @@ https://free3d.com/3d-model/manuel-animated-001-dancing-256270.html
 
 # Output
 
-https://user-images.githubusercontent.com/38187481/220235165-59bbbab5-1c16-439a-b8b5-cde3e2ce607c.mp4
+
+
+https://user-images.githubusercontent.com/38187481/220241411-1c49d4b9-717c-4ab5-ac8e-004cf4684495.mp4
+
 
 
 #### TODO
